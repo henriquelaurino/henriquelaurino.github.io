@@ -59,7 +59,7 @@ h2 div{
   position:relative;
   overflow: hidden;
   max-width:40%;
-  image-orientation: -90deg;
+
 }
 
 #photo img{
@@ -71,6 +71,7 @@ h2 div{
   top: -9999px;
   bottom: -9999px;
   margin: auto;
+  image-orientation: from-image;
 }
 
 #bio {
