@@ -6,7 +6,7 @@ a {text-decoration: none;}
 a:hover {
     opacity: 0.5;
 }
-h1{
+h2{
   width: auto;
   height: 60vh;
   line-height:0px;
@@ -14,7 +14,7 @@ h1{
   position:relative;
   max-width:100%;
 }
-h1 img{
+h2 img{
   position:absolute;
   display: block;
   height: 60vh;
@@ -23,7 +23,7 @@ h1 img{
   margin: auto;
 }
 
-h2{
+h1{
   text-align: center;
   background-color: grey;
   font: normal 10vh Georgia, serif;
@@ -38,7 +38,7 @@ h2{
   max-width:100%;
 }
 
-h2 div{
+h1 div{
   font: normal 5vh Calibri;
   padding-top:1vh;
   padding-bottom:1vh;
