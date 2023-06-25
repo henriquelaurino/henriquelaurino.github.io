@@ -8,7 +8,7 @@ a:hover {
 }
 h2{
   width: auto;
-  height: 60vh;
+  height: 10vh;
   line-height:0px;
   overflow: hidden;
   position:relative;
@@ -17,7 +17,7 @@ h2{
 h2 img{
   position:absolute;
   display: block;
-  height: 60vh;
+  height: 10vh;
   left: -9999px;
   right: -9999px;
   margin: auto;
@@ -26,7 +26,7 @@ h2 img{
 h1{
   text-align: center;
   background-color: grey;
-  font: normal 10vh Georgia, serif;
+  font: normal 5vh Georgia, serif;
   font-style: normal;
   color: : #676767;
   background: #F5F5F5;
@@ -39,7 +39,7 @@ h1{
 }
 
 h1 div{
-  font: normal 5vh Calibri;
+  font: normal 2vh Calibri;
   padding-top:1vh;
   padding-bottom:1vh;
   max-width:100%;
@@ -47,8 +47,8 @@ h1 div{
 
 
 #photo {
-  height: 80vh;
-  width: 40vw;
+  height: 60vh;
+  width: 30vw;
   background-color: invisible;
   float:left;
   margin-left:5%;
@@ -65,7 +65,7 @@ h1 div{
 #photo img{
   position:absolute;
   display: portrait;
-  height: 80vh;
+  height: 60vh;
   left: -9999px;
   right: -9999px;
   top: -9999px;
