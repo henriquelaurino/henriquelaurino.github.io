@@ -7,8 +7,9 @@ a:hover {
     opacity: 0.5;
 }
 h2{
-  width: auto;
-  height: 10vh;
+  object-fit: cover;
+   height: 10vh;
+   width: 100%; 
   line-height:0px;
   overflow: hidden;
   position:relative;
@@ -28,7 +29,7 @@ h2 img{
 h1{
   text-align: center;
   background-color: grey;
-  font: normal 5vh Georgia, serif;
+  font: normal 4vh Georgia, serif;
   font-style: normal;
   color: : #676767;
   background: #F5F5F5;
@@ -36,7 +37,7 @@ h1{
   width: 100vw;
   padding-top:2vh;
   padding-bottom:1vh;
-  margin-bottom:15vh;
+  margin-bottom:5vh;
   max-width:100%;
 }
 
@@ -55,7 +56,7 @@ h1 div{
   float:left;
   margin-left:5%;
   margin-right:5%;
-  margin-bottom:18vh;
+  margin-bottom:5vh;
   padding:0;
   padding-top:2%;
   position:relative;
@@ -83,7 +84,7 @@ h1 div{
   float:left;
   margin-left:5%;
   margin-right:5%;
-  margin-bottom:18vh;
+  margin-bottom:5vh;
   padding:2%;
   font: normal 2vh Calibri !important;
   font-size:;
