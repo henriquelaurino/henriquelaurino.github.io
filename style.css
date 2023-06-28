@@ -37,12 +37,12 @@ h1{
   width: 100vw;
   padding-top:2vh;
   padding-bottom:1vh;
-  margin-bottom:5vh;
+  margin-bottom:1vh;
   max-width:100%;
 }
 
 h1 div{
-  font: normal 2vh Calibri;
+  font: normal 3vh Calibri;
   padding-top:1vh;
   padding-bottom:1vh;
   max-width:100%;
@@ -56,9 +56,9 @@ h1 div{
   float:left;
   margin-left:5%;
   margin-right:5%;
-  margin-bottom:5vh;
+  margin-bottom:1vh;
   padding:0;
-  padding-top:2%;
+  padding-top:1%;
   position:relative;
   overflow: hidden;
   max-width:40%;
@@ -84,9 +84,9 @@ h1 div{
   float:left;
   margin-left:5%;
   margin-right:5%;
-  margin-bottom:5vh;
+  margin-bottom:1vh;
   padding:2%;
-  font: normal 2vh Calibri !important;
+  font: normal 3vh Calibri !important;
   font-size:;
   overflow: auto;
 }
