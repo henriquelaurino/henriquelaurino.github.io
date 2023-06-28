@@ -77,7 +77,7 @@ h1 div{
 }
 
 #bio {
-  height: 76vh;
+  height: 60vh;
   width: 36%;
   background-color: #F5F5F5;
   float:left;
@@ -85,7 +85,7 @@ h1 div{
   margin-right:5%;
   margin-bottom:18vh;
   padding:2%;
-  font: normal 3vh Calibri !important;
+  font: normal 2vh Calibri !important;
   font-size:;
   overflow: auto;
 }
