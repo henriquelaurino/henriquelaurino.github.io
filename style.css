@@ -15,9 +15,11 @@ h2{
   max-width:100%;
 }
 h2 img{
+   object-fit: cover;
   position:absolute;
   display: block;
   height: 10vh;
+   width: 100%; 
   left: -9999px;
   right: -9999px;
   margin: auto;
